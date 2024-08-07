@@ -2,6 +2,10 @@
 
 A Paper on Comparative Study of various Machine Learning Classification Models on Thyroid Disease Dataset 
 
+Index:
+- Thyroid_Disease_Classification.ipynb: Code used for implementing the Study
+- Thyroid_Disease_Classification.pdf: Research Paper
+
 ## Abstract
 We have glands in our entire body, and they are distributed according to the requirement to release any substances that are required by our body. Thyroid is a vital gland for our body which helps in many functions. Men, women, teenagers, elderly, and infants alike can be affected by the thyroid disease.
 
